@@ -7,6 +7,9 @@
   
 </div>
 
+
+![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=biavrc&show_icons=true&theme=radical)
+
 ## Tecnologias que estou aprendendo
 
 <div style="display: inline_block">
