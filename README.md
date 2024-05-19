@@ -1,17 +1,11 @@
-## Oiii! Eu sou a Beatriz Vitória, estudante de programação.
+## Oiii! Eu sou a Beatriz Vitória :)
 
-<div> 
-  <a href="https://www.instagram.com/biavrc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:biavitoria71@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/beatrizvramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  ㅤ
-  
+Uma aspirante a desenvolvedora apaixonada por tecnologia. Futuramente, aqui você vai encontrar uma variedade de projetos que refletem minha jornada no mundo da programação, desde o meu primeiro desafio.
+
 ![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=biavrc&show_icons=true&theme=radical)
 
-
-
 ## Tecnologias que estou aprendendo
+
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,4 +17,16 @@
  
 </div><br/>
 
-Apaixonada por tecnologia.
+<b>Estou sempre em busca de aprender algo novo. Atualmente, estou explorando essas linguagens aí de cima, muita coisa de uma vez, né? Mas  tô tentando fazer 1% de cada, não todos os dias, mas na maioria deles.
+
+<b> Se sinta à vontade para sugerir melhorias ou apenas dizer oi! Você pode me mandar mensagem por aqui:
+
+<div> 
+    <a href="https://www.linkedin.com/in/beatrizvramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/biavrc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:biavitoria71@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  
+</div>
+
+
+
