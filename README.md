@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Beatriz Vitória :)
 
-Uma aspirante a desenvolvedora apaixonada por tecnologia. Futuramente, aqui você vai encontrar uma variedade de projetos que refletem minha jornada no mundo da programação, desde o meu primeiro desafio.
+Uma aspirante a desenvolvedora apaixonada por tecnologia. Futuramente, aqui você vai encontrar uma variedade de projetos que refletem minha jornada no mundo da programação.
 
 ![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=biavrc&show_icons=true&theme=radical)
 
@@ -16,8 +16,6 @@ Uma aspirante a desenvolvedora apaixonada por tecnologia. Futuramente, aqui voc�
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
  
 </div><br/>
-
-<b>Estou sempre em busca de aprender algo novo. Atualmente, estou explorando essas linguagens aí de cima, muita coisa de uma vez, né? Mas  tô tentando fazer 1% de cada, não todos os dias, mas na maioria deles.
 
 <b> Se sinta à vontade para sugerir melhorias ou apenas dizer oi! Você pode me mandar mensagem por aqui:
 
