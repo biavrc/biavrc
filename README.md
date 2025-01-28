@@ -2,11 +2,7 @@
 
 Uma aspirante a desenvolvedora apaixonada por tecnologia.
 
-![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=biavrc&show_icons=true&theme=radical)
-
-## Tecnologias que estou aprendendo
-
-<b> Se sinta à vontade para sugerir melhorias ou apenas dizer oi! Você pode me mandar mensagem por aqui:
+<b>Você pode me mandar mensagem por aqui:
 
 <div> 
     <a href="https://www.linkedin.com/in/beatrizvramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
